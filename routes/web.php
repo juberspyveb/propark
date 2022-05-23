@@ -27,6 +27,7 @@ Route::get('/', 'HomeController@index')->name('/');
 /** front-end routes */
 
 
+
 /* Start Admin Panel Routes */
 Route::get("/admin/login", "AdminController@adminLoginForm")->name("adminlogin");
 Route::POST("/admin/check-login", "AdminController@checkUserLogin")->name("checklogin");
