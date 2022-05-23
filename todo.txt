@@ -1,0 +1,30 @@
+If I booked for an hour and then after 1 min add time for 30mins then it gives 30mins remaining time instead of 1:30mins
+one simple logic in arrival time can solve this arriaval time dynamic take current one
+
+
+************ DB  **************************
+ALTER TABLE `users` CHANGE `supervisor_name` `supervisor_id` BIGINT(20) NULL DEFAULT '0';
+
+
+
+************ API **************************
+#https://www.avyatech.com/rest-api-with-laravel-8-using-jwt-token/
+- Pagination For Listing API Helper
+
+
+1 CHeck Number plate
+	- if only check with lot wise or attendant  wise?
+2. How to assign lot to number plate?
+3. when to add time?
+
+
+
+******************* COLOR  **************
+
+FA4559  RED
+2EB973 GREEN
+FDFFE3 OFFWHITE
+A4DE84 GreenParrot
+
+
+
