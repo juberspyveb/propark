@@ -1,0 +1,8 @@
+.body-content{background: #ededed;}
+.side-nav .logo-sn {background-color: #ffffff;}
+.side-nav .menu-item ul{background-color: #ebebeb;}
+.side-nav .logo-sn a{padding:0;}
+.logo-sn a img {
+    max-width: none;
+    width: 100%;
+}

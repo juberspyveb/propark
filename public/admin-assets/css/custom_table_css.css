@@ -1,0 +1,8 @@
+table img{
+	border-radius: 0;
+	max-width: 40px;
+}
+
+.table-responsive{
+	overflow-x: unset;
+}
